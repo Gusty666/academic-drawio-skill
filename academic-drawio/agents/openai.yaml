@@ -1,0 +1,7 @@
+interface:
+  display_name: "Academic Drawio"
+  short_description: "借鉴参考图版式，结合论文思路，生成可编辑的 draw.io 技术路线图代码"
+  default_prompt: "请使用 $academic-drawio，结合我上传的参考图和研究材料，借鉴版式并适配研究结构，直接输出完整可编辑的 draw.io XML 代码。"
+policy:
+  allow_implicit_invocation: true
+
