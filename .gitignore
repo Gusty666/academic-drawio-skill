@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.test-tmp/
+tmp/
+
+# Local development and release artifacts
+docs/
+tests/
+tools/
+examples/
+dist/
+
+# Locally generated diagrams
+/*.drawio
+
